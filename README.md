@@ -11,11 +11,13 @@
 
 - 👨‍💻 **Software Developer** with over **2 years** of working experience,
 
-- ⏲️ In my free time, I watch **movies** 🎥, do **workouts** at the gym 🏋️‍♂️, ride a **snowboard** 🏂 during winter break, and read books 📚,
+- 🏆 **Azure Certified**, currently holds one certification (eager to get more!)
+    - **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/CAAFEBD71A4B9338?sharingId=F572EE2BCEA61E43)**
+- ⏲️ In my spare time, I like to watch **films** 🎥, do **work out** at the gym 🏋️‍♂️, **snowboard** 🏂 during the winter holidays, read **books** 📚, and go to a **climbing spot** 🧗
 
-- 💻 I fuel my passion and skill-set by venturing into the creation of personal projects & courses, maximizing learning from each experience,
+- 💻 I fuel my passion and skill-set by venturing into the creation of personal projects & courses, maximising the learning from each experience,
 
-- 🌱 I’m currently learning Data Engineering & Machine Learning, 
+- 🌱 I’m currently learning Data Engineering, Azure and Machine Learning, 
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jedrzej-wesolowski/), [Facebook](https://www.facebook.com/jedrzej.wesolowski/)**
 
