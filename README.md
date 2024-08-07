@@ -11,9 +11,11 @@
 
 - 👨‍💻 **Software Developer** with over **2 years** of working experience,
 
-- 🏆 **Azure Certified**, currently holds one certification (eager to get more!)
+- 🏆 **Azure Certified**, currently holds two certs (eager to get more!)
     - **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/CAAFEBD71A4B9338?sharingId=F572EE2BCEA61E43)**
-- ⏲️ In my spare time, I like to watch **films** 🎥, do **work out** at the gym 🏋️‍♂️, **snowboard** 🏂 during the winter holidays, read **books** 📚, go to a **climbing spot** 🧗, and **travel** 🌍
+    - **[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/3FE7041F5212EE4E?sharingId=F572EE2BCEA61E43)**
+
+- ⏲️ In my spare time, I like to watch **films** 🎥, do **workout** at the gym 🏋️‍♂️, **snowboard** 🏂 during the winter holidays, **windsurf** 💨🏄 at summer, read **books** 📚, go to a **climbing spot** 🧗, and **travel** 🌍
 
 - 💻 I fuel my passion and skill-set by venturing into the creation of personal projects & courses, maximising the learning from each experience,
 
