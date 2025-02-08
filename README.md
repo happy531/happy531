@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jędrzej</h1>
 
-<h3 align="center">I'm a fourth-year student from Poland</h3>
+<h3 align="center">I'm a fifth-year student from Poland</h3>
 
 <br>
 <h2 align="center">👨 About me:</h2>
@@ -9,7 +9,7 @@
 
 - 👨‍🎓 **Master's degree** (Engineering) **enrolled** in **Computer Science** and **Machine Learning** specialization from the **Faculty of Electronics, Telecommunications and Informatics** at the **Gdańsk University of Technology**,
 
-- 👨‍💻 **Software Developer** with over **2 years** of working experience,
+- 👨‍💻 **Software Developer** with **3 years** of working experience,
 
 - 🏆 **Azure Certified**, currently holds two certs (eager to get more!)
     - **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/CAAFEBD71A4B9338?sharingId=F572EE2BCEA61E43)**
