@@ -9,9 +9,12 @@
 
 - 👨‍🎓 **Master's degree** (Engineering) **enrolled** in **Computer Science** and **Machine Learning** specialization from the **Faculty of Electronics, Telecommunications and Informatics** at the **Gdańsk University of Technology**,
 
-- 👨‍💻 **Software Developer** with **3 years** of working experience,
+- 👨‍💻 **Software Engineer** with **3 years** of professional working experience,
 
-- 🏆 **Azure Certified**, currently holds two certs (eager to get more!)
+- 🏆 **AWS Certified**
+    - **[AWS Certified AI Practitioner](https://www.credly.com/badges/f6923d66-1cc7-4da3-a3fd-ce06d3dcee48/linked_in_profile)**
+
+- 🏆 **2x Azure Certified**
     - **[Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/CAAFEBD71A4B9338?sharingId=F572EE2BCEA61E43)**
     - **[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/jedrzej-wesolowski/3FE7041F5212EE4E?sharingId=F572EE2BCEA61E43)**
 
@@ -19,7 +22,7 @@
 
 - 💻 I fuel my passion and skill-set by venturing into the creation of personal projects & courses, maximising the learning from each experience,
 
-- 🌱 I’m currently learning Data Engineering, Azure and Machine Learning, 
+- 🌱 I’m currently learning Data Engineering and Machine Learning,
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jedrzej-wesolowski/), [Instagram](https://www.instagram.com/jedrzejwesolowski/)**
 
