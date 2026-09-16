@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jędrzej</h1>
 
-<h3 align="center">I'm a graduated Software Engineer from Poland</h3>
+<h3 align="center">I'm a Mid Software Engineer from Poland</h3>
 
 <br>
 <h2 align="center">👨 About me:</h2>
 
 <h3>Key facts</h3>
 
-- 👨‍🎓 **Master's degree** (Engineering) **graduated** in **Computer Science** and **Machine Learning** specialization from the **Faculty of Electronics, Telecommunications and Informatics** at the **Gdańsk University of Technology**,
+- 👨‍🎓 **Master's degree** (Engineering) in **Machine Learning** from the **Faculty of Electronics, Telecommunications and Informatics** at the **Gdańsk University of Technology**,
 
-- 👨‍💻 **Software Engineer** at **Dell Technologies**,
+- 👨‍💻 **Agentic Product Engineer (Mid)** at **Nord Security**,
 
 - 🏆 **Certifications**
     - **[AWS Certified AI Practitioner](https://www.credly.com/badges/f6923d66-1cc7-4da3-a3fd-ce06d3dcee48/linked_in_profile)**
@@ -23,8 +23,3 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jedrzej-wesolowski/), [Instagram](https://www.instagram.com/jedrzejwesolowski/)**
 
 ### "Talk is cheap, show me the code" ~~ Linus Torvalds
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy531&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&icon_color=34abeb&theme=radical" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=happy531&show_icons=true&theme=radical" height="160"/>
-</div>
